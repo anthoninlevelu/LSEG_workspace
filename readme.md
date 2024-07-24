@@ -1,8 +1,7 @@
-#########################################
-# --- Refinitiv (LSEG) ---
-# --- Firm-level data extraction ---
-# --- Written by Anthonin Levelu ---
-#########################################
+
+ --- Refinitiv (LSEG) ---
+ --- Firm-level data extraction ---
+ --- Written by Anthonin Levelu ---
 
 This Python script allows for:
 
